@@ -1,0 +1,5 @@
+{
+  "name": "Murakami Poem Generator",
+  "description": "An application that generates poetry in the distinct style of Haruki Murakami based on a user-provided theme.",
+  "requestFramePermissions": []
+}
